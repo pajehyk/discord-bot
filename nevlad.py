@@ -2,7 +2,7 @@ import discord;
 import asyncio;
 import requests;
 
-DISCORD_BOT_TOKEN = "NDk2NjY1MDA3ODc5MzU2NDM3.DpT7Ew.j2fLIk48rNQKa4mC1sL4jlIAGEM";
+DISCORD_BOT_TOKEN = "";
 
 client = discord.Client();
 
